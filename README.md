@@ -146,32 +146,34 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+*A document which can be displayed in a web browser such as Firefox, Google Chrome, Opera, Microsoft Internet Explorer or Edge.*
 
 
 ### 11. Webpage I like
 
-What's one webpage you like? Why?
+*I like chrome because it has great tool for web development and it is also fast and secure*
 
 
 ### 12. Website I don’t like
 
-What's one webpage you like? Why?
+*I dont internet explore it is old and it is not great for web developer*
 
 
 ### 13. Resources
 
-Where is a good place to look for information about HTML tags?
+* I use developer.mozilla.org most of the time and W3CHOOLS ect.*
 
 
 ### 14. HTML Versions
 
-Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+*we are using html5*  
+*<!DOCTYPE html>*
 
-What is XML?
+*-What is XML?*
+*XML stands for eXtensible Markup Language much like HTML*
 
-What is XHTML?
-
+*-What is XHTML?*
+*XHTML stands for EXtensible HyperText Markup Language and it is almost identical to HTML*
 
 ### 15. HTML
 
@@ -208,7 +210,9 @@ What is the `<body>` tag for?
 
 ### 20. Head…
 
-What's the difference between `<head>`, `<header>`, and heading tags?
+*What's the difference between `<head>`, `<header>`, and heading tags?*
+*The <head> element provides general information about the document. it is also where we include the title and links such as scripts and style sheets and the meta.*
+*The <header> element is a introductory content where we can add set of navigation links.*
 
 
 ### 21. Tables
@@ -223,14 +227,19 @@ Which tags don't have a closing pair (e.g. `<br>`)?
 
 ### 23. Links
 
-How do you make a link open in a new window?
+*How do you make a link open in a new window?*
+*we used the target="_blank" attribute attribute to link open in new page.*
+*example:*
+*<a href="website link" target="_blank">link name</a>*
 
 
 ### 24. IFRAME
 
-What is an IFRAME?
+*What is an IFRAME?*
+*An IFrame which called inline frame is an HTML document embedded or added inside another HTML document on a website*
 
-What are IFRAMEs commonly used for?
+*What are IFRAMEs commonly used for?*
+*Iframes is commonly used to add another html page inside another and adding videos* 
 
 
 ## Writing Code
