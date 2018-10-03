@@ -166,13 +166,13 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 14. HTML Versions
 
-*we are using html5*  
+we are using html5?  
 *<!DOCTYPE html>*
 
-*-What is XML?*
+What is XML?
 *XML stands for eXtensible Markup Language much like HTML*
 
-*-What is XHTML?*
+What is XHTML?
 *XHTML stands for EXtensible HyperText Markup Language and it is almost identical to HTML*
 
 ### 15. HTML
@@ -210,7 +210,7 @@ What is the `<body>` tag for?
 
 ### 20. Head…
 
-*What's the difference between `<head>`, `<header>`, and heading tags?*
+What's the difference between `<head>`, `<header>`, and heading tags?
 *The <head> element provides general information about the document. it is also where we include the title and links such as scripts and style sheets and the meta.*
 *The <header> element is a introductory content where we can add set of navigation links.*
 
@@ -227,7 +227,7 @@ Which tags don't have a closing pair (e.g. `<br>`)?
 
 ### 23. Links
 
-*How do you make a link open in a new window?*
+How do you make a link open in a new window?
 *we used the target="_blank" attribute attribute to link open in new page.*
 *example:*
 *<a href="website link" target="_blank">link name</a>*
@@ -235,10 +235,10 @@ Which tags don't have a closing pair (e.g. `<br>`)?
 
 ### 24. IFRAME
 
-*What is an IFRAME?*
+What is an IFRAME?
 *An IFrame which called inline frame is an HTML document embedded or added inside another HTML document on a website*
 
-*What are IFRAMEs commonly used for?*
+What are IFRAMEs commonly used for?
 *Iframes is commonly used to add another html page inside another and adding videos* 
 
 
